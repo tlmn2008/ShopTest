@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
-BOSS_URL = 'http://54.222.223.155:8000/boss/'
-MOBILE_URL = 'http://54.222.223.155:8000/mobile/'
+BOSS_URL = 'http://'
+MOBILE_URL = 'http://'
 LOGIN_URL = "{}{}".format(MOBILE_URL, 'loginm.html?url=/customercenter.html')
 CATE_URL = "{}{}".format(MOBILE_URL, 'cates.html')
 CART_URL = "{}{}".format(MOBILE_URL, "myshoppingmcart.html")
@@ -10,7 +10,7 @@ MINE_URL = "{}{}".format(MOBILE_URL, 'customercenter.html')
 BOSS_ADMIN_NAME = 'admin'
 BOSS_ADMIN_PASSWORD = 'abcd1234'
 
-MOBILE_NUMBER = '17602197829'
+MOBILE_NUMBER = '1760xxxxx'
 MOBILE_PASSWORD = 'abcd1234'
 MOBILE_SMS_CODE = '123123'
 
